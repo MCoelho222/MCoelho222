@@ -4,7 +4,7 @@
 - During my doctorate in water resources and environmental engineer I learned a lot about python. 
 - I have created many algorithms for water resources time series, and I will be uploading all of them here soon.
 - 👀 Right now, I’m interested in learning everything about being a fullstack developer.
-- 🌱 I’m currently learning it in 9-months program from SENAI-SC called DEVinHouse.
+- 🌱 I’m currently learning it in a 9-months program of SENAI-SC. It is called DEVinHouse.
 - 💞️ I’m looking to collaborate on algorithms for time series analysis and also with insights from my DEVinHouse course. 
 - 📫 How to reach me ...
 - e-mail: mcoelho2011@hotmail.com
