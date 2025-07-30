@@ -4,7 +4,7 @@
 - I have a PhD in water resources and environmental engineer. I learned a lot about python in this period. 
 - I have created many algorithms for analyses of water resources time series using numpy, scipy, pandas and matplotlib.
 - 👀 Right now, I’m interested in machine learning and artificial intelligence.
-- 🌱 I’m currently pursuing a postgraduate in artificial intelligence.
+- 🌱 I’ve just completed a postgraduate in artificial intelligence.
 - 📫 How to reach me ...
 - e-mail: mcoelho2011@hotmail.com
 
